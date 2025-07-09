@@ -1,5 +1,5 @@
 📸 Party Pixels – Web Photobooth
-Party Pixels is a fun, interactive web-based photobooth built with Next.js and Tailwind CSS.
+Party Pixels is a fun, interactive web-based photobooth built with Next.js, Tailwind CSS, and Framer Motion for smooth animations.
 
 🎉 Capture your best moments live from your webcam, customize the collage background, arrange photos vertically, and download your memories — all with a single click!
 
@@ -16,7 +16,7 @@ Party Pixels is a fun, interactive web-based photobooth built with Next.js and T
 
 💻 Responsive design for all screen sizes
 
-Smooth & elegant UI with Tailwind CSS
+⚡ Smooth & elegant UI with Tailwind CSS & Framer Motion
 
 🛠️ Built With
 Next.js – React Framework for SSR & SSG
@@ -25,7 +25,19 @@ React – UI Library
 
 Tailwind CSS – Utility-first CSS
 
+Framer Motion – Declarative animations
+
 HTML5 Canvas – for collage generation
+
+🧰 Tech Stack
+Category	Tools & Technologies
+Frontend	Next.js, React, Tailwind CSS, Framer Motion
+Styling	Tailwind CSS
+Animations	Framer Motion
+Image Handling	HTML5 Canvas, getUserMedia API
+Language	JavaScript (ES6+), JSX
+Build Tools	Node.js, npm
+Deployment	Vercel / Static Hosting
 
 📦 Getting Started
 Prerequisites
